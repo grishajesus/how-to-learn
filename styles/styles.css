@@ -238,12 +238,12 @@
    }
 
    .kaufman__triangle { 
-     position:absolute; 
-     width: 877px; 
+     position:absolute;
+     width: 877px;
      height: 877px;
      z-index: 0;
-     right: -210px; 
-     top: 0; 
+     right: -210px;
+     top: 0;
 } 
   
    .section-title_theme_dark {
@@ -267,7 +267,7 @@
   }
   
   .kaufman_subtitle_dark {
-    text-align: center; 
+    text-align: center;
     color: white;
     z-index: 1;
   }
@@ -324,7 +324,6 @@
   
   .content_copyright {
     display: flex;
-    flex-direction: row;
     flex-basis: 711px;
     flex-direction: inherit;
   }
