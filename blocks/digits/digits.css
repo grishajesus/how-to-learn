@@ -1,0 +1,16 @@
+@import url(./section-subtitle/section-subtitle.css);
+@import url(./section-title/section-title.css);
+@import url(./table/__cell/table__cell.css);
+@import url(./table/__heading/table__heading.css);
+@import url(./table/__text/table__text.css);
+@import url(./table/table.css);
+
+
+.digits {
+    text-align: center;
+    position: relative;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+   
+   }
