@@ -1,6 +1,7 @@
-@import url(/blocks/oakley/_section_oakley/two-columns\ two-columns_section_oakley.css);
-
 .oakley {
     background-color: #F2F2F2;
     overflow: hidden;
+    padding-top: 160px;
+    padding-bottom: 80px;
 }
+/* Я правда не знаю почему не прописывается "padding: 160px auto 80px;" но обещаю разобраться */

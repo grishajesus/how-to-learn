@@ -1,9 +1,3 @@
-@import url(../techniques/cards/cards.css);
-@import url(../techniques/cards/__description/cards__description.css);
-@import url(../techniques/cards/__img/cards__img.css);
-@import url(../techniques/cards/__item/cards__item.css);
-@import url(../techniques/cards/__title/cards__title.css);
-
 .techniques {
   display: flex;
   flex-direction: column;

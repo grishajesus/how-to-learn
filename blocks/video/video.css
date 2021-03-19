@@ -1,5 +1,5 @@
-@import url(/blocks/video/__iframes/video__iframes.css);
-@import url(/blocks/video/__iframes/__iframe/video__iframe.css);
+@import url(./__iframes/video__iframes.css);
+@import url(./__iframes/__iframe/video__iframe.css);
 
 .video {
     display: flex;
