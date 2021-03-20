@@ -7,6 +7,5 @@
     background-image: url("../../../images/kaufman-triangle.svg");
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: 0;
-    animation: rotation-triangle 20s linear infinite;
+    z-index: -1;
 }
