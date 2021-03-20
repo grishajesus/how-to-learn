@@ -1,15 +1,4 @@
-.video__iframes { 
+.video__iframes {
    margin: 50px 0px -60px;
    display: flex;
-}
-
-.video__iframe {
-    width: 515px;
-    height: 316px;
-    margin: 0 20px 0 0;
-    border: 0;
-}
-
-.video__iframe:last-of-type {
-    margin: 0;
 }
